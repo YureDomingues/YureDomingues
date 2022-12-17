@@ -1,6 +1,6 @@
 <h1 align="center">
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YureDomingues&theme=gotham&include_all_commits=true&count_private=true&contribs&show_icons=true&" alt=""/>
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YureDomingues&layout=compact&theme=gotham&hide=html,javascript,css" alt=""/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YureDomingues&layout=compact&theme=gotham&hide=html,css" alt=""/>
 
 
 </h1>
