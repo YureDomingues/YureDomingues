@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YureDomingues&theme=gotham&include_all_commits=true&count_private=true&contribs&show_icons=true&" alt=""/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YureDomingues&theme=gotham&include_all_commits=true&count_private=false&contribs&show_icons=true&" alt=""/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YureDomingues&layout=compact&theme=gotham&hide=javascript" alt=""/>
 </h1>
 <h1 align="center">
