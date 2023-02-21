@@ -28,11 +28,13 @@
 </h2>
 
 <h2>
-  <p align="start">📊 Algumas estatísticas: </p>
+  <p align="start">📊 Estatísticas: </p>
   <br>
   <div align="center">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YureDomingues&theme=gotham&include_all_commits=true&count_private=false&contribs&show_icons=true&hide=issues,stars" alt="Estatísticas gerais sobre o GitHub do usuário, contém número de commits, entre algumas outra informações"/>
+    <!--
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YureDomingues&layout=compact&theme=gotham&hide=none" alt="Uma lista contendo as porcentagens das linguagens mais utilizadas pelo Usuário"/>
+    -->
    </div>
    <br>
 </h2>
